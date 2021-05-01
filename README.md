@@ -1,2 +1,2 @@
 # generate
-Tool to generate ts code
+Tools to generate ts code
